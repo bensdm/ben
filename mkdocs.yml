@@ -1,2 +1,3 @@
 site_name: ben
-theme: readthedocs
+theme: 
+  name: material
